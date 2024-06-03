@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Practicando Springboot - Literalura</h1>
 
-Literalura es una aplicación de consola desarrollada en Java con Spring Boot, que permite realizar diversas consultas relacionadas con libros y autores de la [API de Gutendex] (https://gutendex.com/).
+Literalura es una aplicación de consola desarrollada en Java con Spring Boot, que permite realizar diversas consultas relacionadas con libros y autores de la [API de Gutendex](https://gutendex.com/).
 
   
   
