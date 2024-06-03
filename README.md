@@ -10,7 +10,7 @@ Literalura es una aplicación de consola desarrollada en Java con Spring Boot, q
 *   **Mostrar libros registrados:** Cada vez que se realiza la busqueda de un libro, este es agregado a una base de datos gestionada con PostgreSQL, de la cual se pueden consultar los libros que han sido buscados.
 *   **Mostrar autores registrados:** Al buscar un libro, el autor es añadido a una base de datos específica que contiene a todos los autores de los libros que han sido buscados, de los cuales se muestra cierta información relevante en consola.
 *   **Mostrar autores vivos en un determinado año:** Los usuarios pueden ver todos los autores de los libros que han sido buscados, y que estaban vivos en un año específico.
-*   **Mostrar libros por idioma:** EL programa permite mostrar los libros de un idioma específico dentro de los idiomas que han sido registrados a la base de datos.
+*   **Mostrar libros por idioma:** El programa permite mostrar los libros de un idioma específico dentro de los idiomas que han sido registrados a la base de datos.
 
 <h2>🛠️ Pasos para ejecutar el programa:</h2>
 <ol>
